@@ -1,0 +1,15 @@
+*.iso
+*.box
+
+*.log
+*.tmp
+
+packer_cache/
+output-*/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+*.env
