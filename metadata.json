@@ -1,0 +1,17 @@
+{
+  "name": "rockylinux-10-basic-libvirt",
+  "description": "Rocky linux 10 basic box",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "providers": [
+        {
+          "name": "libvirt",
+          "url": "./rockylinux-10-basic-libvirt.box",
+          "checksum_type": "sha256",
+          "checksum": "2f61a108a5a08df91261c73af5b230222d237b87dc0b5c3a2af65c034bdfdb50"
+        }
+      ]
+    }
+  ]
+}
